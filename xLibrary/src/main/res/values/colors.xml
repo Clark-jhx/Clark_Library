@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--半透明主题-->
+    <color name="transparent_background">#50000000</color>
+    <!--recyclerView多类型-->
+    <color name="no_adapter_color">#14962222</color>
+    <color name="no_adapter_text_color">#6c1d1d</color>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">xLibrary</string>
+    <string name="no_adapter">该item对应的数据类型，没有配置adapter</string>
+</resources>
